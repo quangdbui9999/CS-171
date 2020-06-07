@@ -1,0 +1,46 @@
+Name: Quang Bui
+Student ID: 14392331
+Name: Quang Duy Bui
+Student ID: 12345
+Information of student: 1Name: 1
+Student ID: 23
+Number of credits earned: 4
+
+Information of student: 2Name: 3
+Student ID: 4
+Number of credits earned: 5
+
+Information of student: 3Name: 6
+Student ID: 7
+Number of credits earned: 5
+
+Information of student: 1
+Name: Quang Bui
+Student ID: 14392331
+Number of credits earned: 89.5
+
+Information of student: 2
+Name: Quan Bui
+Student ID: 14392332
+Number of credits earned: 92
+
+Information of student: 3
+Name: Thuong Nguen
+Student ID: 13332
+Number of credits earned: 32
+
+Information of student: 1
+Name: 1
+Student ID: 2
+Number of credits earned: 3
+
+Information of student: 2
+Name: 4
+Student ID: 5
+Number of credits earned: 6
+
+Information of student: 3
+Name: 7
+Student ID: 8
+Number of credits earned: 9
+
